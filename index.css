@@ -1,8 +1,8 @@
 
 html, body{
     font-family: 'Merriweather', serif;
-    background: rgb(249,227,224);
-    background: radial-gradient(circle, rgba(249,227,224,1) 0%, rgba(240,217,216,1) 100%);
+    background: rgb(254,237,236);
+    background: radial-gradient(circle, rgba(254,237,236,0.9850315126050421) 6%, rgba(255,230,226,1) 97%);
     width: 100%;
     padding: 0em;
   }
@@ -12,16 +12,20 @@ html, body{
       flex-direction: column;
       align-items: center; 
       justify-content: center;
-      border: 1px #ccc solid;
+      /* border: 1px #ccc solid; */
   }
 
   .main_container p {
-    margin-bottom: 0.05em;
+    line-height: 0em;
+  }
+
+  .currently_learning p {
+    padding-top: 1.5em;
   }
 
   .main_nav {
-    border: 1px #ccc solid;
-    padding: 0.25em;
+    /* border: 1px #ccc solid; */
+    padding: 4em;
   }
 
   .button_container {
@@ -29,36 +33,31 @@ html, body{
     flex-direction: column;
     align-items: center; 
     justify-content: center;
+    padding-bottom: 2.5em;
   }
-  
+
   button {
-  color: black;
-  font-family: 'Merriweather', serif;
-    text-decoration: none;
-    font-weight:300;
-    text-shadow: 0 0.04em 0.04em rgba(0,0,0,0.35);
-    text-align:center;
-    transition: all 0.15s;
-  font-size:14px;
-  }
-  
-  button.hover {
-  color:#000000;
-  background-color:#B1818D;
-  }
-  
-  @media all and (max-width:30em){
-   a.button1{
-    display:block;
-    margin:0.4em auto;
-   }
-  }
+    color: black;
+    background-color: rgb(254,237,236);
+    border:0.1em solid #000000;
+    margin: 0 0.3em 0.3em 0;
+    font-family: 'Merriweather', serif;
+    text-decoration: none;
+    font-weight:300;
+    text-shadow: none;
+    text-align:center;
+    font-size:14px;
+    }
+
+  button:hover{
+      color:#000000;
+      background-color:#B1818D;
+      }
   
   .footer {
-    position: relative;
+    position: relative; 
     left: 0;
     bottom: 0;
-    width: 0;
     width: 100%;
     text-align: center;
   }
