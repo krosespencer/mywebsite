@@ -9,7 +9,7 @@ As I build a simple website, slowly and probably rather badly, I am routinely am
 
 ## Pinned Resources 
 
-### :star: 
+### :star: :star: :star: 
 - https://github.com/thedaviddias/Front-End-Checklist 
 - https://html.spec.whatwg.org/
 - https://htmlreference.io/
