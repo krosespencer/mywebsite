@@ -15,6 +15,7 @@ As I build a simple website, slowly and probably rather badly, I am routinely am
 - https://htmlreference.io/
 - https://chiamakaikeanyi.dev/sizing-in-css-px-vs-em-vs-rem/
 - https://emojipedia.org/
+- https://cssguidelin.es/#syntax-and-formatting
 
 ### Will Need In Future 
 - https://catswhocode.com/how-to-make-a-responsive-website/
