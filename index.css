@@ -27,7 +27,7 @@ html, body{
     padding: 4em;
   }
 
-  .writingnav:hover, .linav:hover, .emailnav:hover {
+  .link:hover{
     text-decoration: underline;
   }
 
