@@ -31,6 +31,10 @@ html, body{
     font-size:0.938rem;
   }
 
+  .callout a {
+    font-weight:bold;
+  }
+
   nav {
     margin: 4em;
   }
