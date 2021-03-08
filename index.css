@@ -7,6 +7,11 @@ html, body{
     padding: 0em;
     margin:0em;
   }
+
+  a {
+    text-decoration: none;
+    color: #AA4545;
+}
   
   .main_container {
       display: flex;
@@ -20,11 +25,17 @@ html, body{
     text-align: center;
   }
 
-  .currently_learning p {
+  .callout {
     padding-top: 1.5em;
+    padding-bottom: 0em;
+    font-size:0.938rem;
   }
 
-  .main_nav {
+  .callout a {
+    font-weight:bold;
+  }
+
+  nav {
     margin: 4em;
   }
 
@@ -50,7 +61,7 @@ html, body{
     font-weight:300;
     text-shadow: none;
     text-align:center;
-    font-size:14px;
+    font-size: 0.875rem;
     }
 
   button:hover{
@@ -60,15 +71,12 @@ html, body{
   
   footer {
     position: relative; 
+    font-size:0.75rem;
     left: 0;
     bottom: 0;
     width: 100%;
     text-align: center;
   }
   
-  a {
-      text-decoration: none;
-      color: #AA4545;
-  }
   
   
