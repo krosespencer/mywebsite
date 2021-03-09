@@ -63,17 +63,6 @@ html, body{
       color:#fffbfb;
       background-color:#B1818D;
       }
-
-      @media screen and (device-aspect-ratio: 40/71) {
-        nav {
-          margin:2em;
-        }
-
-        footer {
-          position:relative;
-        }
-        
-      }
   
   footer {
     position: absolute; 
@@ -84,5 +73,14 @@ html, body{
     text-align: center;
   }
   
+  @media screen and (device-aspect-ratio: 40/71) {
+    nav {
+      margin:2em;
+    }
+
+    footer {
+      position:relative;
+    }
+  }
   
   
