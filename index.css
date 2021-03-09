@@ -55,13 +55,24 @@ html, body{
     text-decoration: none;
     font-weight:300;
     text-shadow: none;
-    text-align:center;
+    text-align: center;
     font-size: 0.875rem;
     }
 
   button:hover{
       color:#fffbfb;
       background-color:#B1818D;
+      }
+
+      @media screen and (device-aspect-ratio: 40/71) {
+        nav {
+          margin:2em;
+        }
+
+        footer {
+          position:relative;
+        }
+        
       }
   
   footer {
