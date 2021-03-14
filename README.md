@@ -1,5 +1,5 @@
 # mywebsite
-Learning HTML + CSS by building out my website. Started Feb 2021. 
+Learning HTML + CSS by building out my website. Started Feb 2021. Deployed in the first week of March 2021. 
 
 Doing a lot of Googling. 
 
