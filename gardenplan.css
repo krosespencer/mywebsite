@@ -44,6 +44,24 @@ html, body{
     background-color:#B1818D;
 }
 
+.peas2 {
+    border: 0.17rem solid green;
+    width: 15rem;
+    height: 2rem;
+    transform: rotate(90deg);
+    margin-top: 20rem;
+  }
+  
+  .peas2 p {
+      text-align: center;
+      margin: 0.5rem;
+  }
+  
+  .peas2:hover {
+      color:#fffbfb;
+      background-color:#B1818D;
+  }
+
 .garden2box
 {
   border: 0.17rem solid green;
