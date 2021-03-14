@@ -74,6 +74,7 @@ html, body{
   }
   
   @media screen and (device-aspect-ratio: 40/71) {
+     /*for mobile folks*/
     nav {
       margin:2em;
     }
