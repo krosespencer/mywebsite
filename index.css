@@ -1,7 +1,6 @@
 
 
 html, body{
-    /* font-family: 'Merriweather', serif; */
     font-family: 'Noto Sans', sans-serif;
     background:rgb(255, 246, 246);
     width: 100%;
@@ -84,5 +83,4 @@ html, body{
       position:relative;
     }
   }
-  
   

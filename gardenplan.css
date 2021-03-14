@@ -1,9 +1,9 @@
 html, body{
-    font-family: 'Merriweather', serif;
+    font-family: 'Noto Sans', sans-serif;
     background:rgb(255, 246, 246);
     width: 100%;
-    padding: 0em;
-    margin:0em;
+    margin:0rem;
+    padding:0rem;
   }
 
   a {
@@ -11,10 +11,63 @@ html, body{
     color: #AA4545;
 }
 
-.garden1
-{
-  width: 5em;
-  border: 0.25em solid green;
-  padding: 1em;
-  margin: 1em;
+.garden_container {
+    display:flex;
+    align-items: center; 
+    justify-content: center;
+    margin: 0.5rem;
 }
+
+.garden1box
+{
+  border: 0.17rem solid green;
+  width: 10rem;
+  height:20rem;
+  padding: 3rem;
+  margin: 3rem;
+}
+
+.peas {
+  border: 0.17rem solid green;
+  width: 12rem;
+  height: 2rem;
+  margin-top: 20rem;
+}
+
+.peas p {
+    text-align: center;
+    margin: 0.5rem;
+}
+
+.peas:hover {
+    color:#fffbfb;
+    background-color:#B1818D;
+}
+
+.garden2box
+{
+  border: 0.17rem solid green;
+  width: 10rem;
+  height:20rem;
+  padding: 3rem;
+  margin: 3rem;
+}
+
+.garden3box
+{
+  border: 0.17rem solid green;
+  width: 10rem;
+  height:20rem;
+  padding: 3rem;
+  margin: 3rem;
+}
+
+
+footer {
+    position: absolute; 
+    font-size:0.75rem;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+  }
