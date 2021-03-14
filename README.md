@@ -31,3 +31,6 @@ As I build a simple website, slowly and probably rather badly, I am routinely am
 - https://webhint.io/
 - https://www.10bestdesign.com/dirtymarkup/
 - https://kyusuf.com/post/almost-complete-guide-to-flexbox-without-flexbox/
+
+### CSS Art Basics
+- https://uxdesign.cc/drawing-with-code-716cb0b21b06
