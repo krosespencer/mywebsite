@@ -50,7 +50,8 @@ html, body{
     border: 0.17rem solid green;
     width: 8rem;
     height: 2rem;
-    transform: rotate(90deg);
+    transform: rotate(270deg);
+    margin-right: 8rem;
   }
   
   .peas2 p {
