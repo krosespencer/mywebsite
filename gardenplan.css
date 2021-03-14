@@ -37,6 +37,8 @@ html, body{
 .peas p {
     text-align: center;
     margin: 0.5rem;
+    display: block;
+}
 }
 
 .peas:hover {
@@ -46,10 +48,9 @@ html, body{
 
 .peas2 {
     border: 0.17rem solid green;
-    width: 15rem;
+    width: 8rem;
     height: 2rem;
     transform: rotate(90deg);
-    margin-top: 20rem;
   }
   
   .peas2 p {
