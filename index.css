@@ -48,7 +48,7 @@ html, body{
 
   button {
     color: black;
-    background-color: rgb(254,237,236);
+    background-color: rgb(255, 246, 246);
     border:0.1em solid #000000;
     margin: 0 0.3em 0.3em 0;
     font-family: 'Merriweather', serif;
@@ -74,6 +74,7 @@ html, body{
   }
   
   @media screen and (device-aspect-ratio: 40/71) {
+     /*for mobile folks*/
     nav {
       margin:2em;
     }
