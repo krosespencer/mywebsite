@@ -242,8 +242,8 @@ html, body{
                 }
                   
 .yarrow1:hover {
-  color:#fffbfb;
-  background-color:rgb(134, 176, 134 );
+  color:black;
+  background-color:#FFF88B ;
   border: none;
 }
 
@@ -264,8 +264,8 @@ html, body{
 }
                                 
 .daisy1:hover {
-  color:#fffbfb;
-  background-color:rgb(134, 176, 134 );
+  color:black;
+  background-color:#FEBBA4;
   border: none;
 }
 
@@ -286,8 +286,8 @@ html, body{
 }
                                 
 .daisy2:hover {
-  color:#fffbfb;
-  background-color:rgb(134, 176, 134 );
+  color:black;
+  background-color:#FEBBA4;
   border: none;
 }
 
@@ -308,8 +308,8 @@ html, body{
 }
                                 
 .daisy3:hover {
-  color:#fffbfb;
-  background-color:rgb(134, 176, 134 );
+  color:black;
+  background-color:#FEBBA4;
   border: none;
 }
 
@@ -329,9 +329,9 @@ html, body{
 }
                                 
 .chamo1:hover {
-  color:#fffbfb;
-  background-color:rgb(134, 176, 134);
-  border: none;
+  color: black;
+  background-color:#FFFEEF;
+  border: 0.17rem solid rgb(134, 176, 134);
 }
 
 .thyme1 {
@@ -352,7 +352,7 @@ html, body{
                                 
 .thyme1:hover {
   color:#fffbfb;
-  background-color:rgb(134, 176, 134);
+  background-color:#145E12 ;
   border: none;
 }
 
