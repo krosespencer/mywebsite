@@ -20,48 +20,118 @@ html, body{
 
 .garden1box
 {
+  display: grid;
+  grid-template-columns: 5rem 5rem 5rem;
+  grid-template-rows: 5rem 5rem 5rem 5rem 5rem;
+  justify-items: center;
+  align-items: center;
   border: 0.17rem solid green;
-  width: 10rem;
-  height:20rem;
-  padding: 3rem;
+  width: 15rem;
+  height:25rem;
   margin: 3rem;
 }
 
-.peas {
+.peas1 {
+  grid-column-start: 1;
+  grid-row-start: 5;
   border: 0.17rem solid green;
-  width: 12rem;
-  height: 2rem;
-  margin-top: 20rem;
+  border-radius: 50%;
 }
 
-.peas p {
+.peas1 p {
     text-align: center;
     margin: 0.5rem;
-    display: block;
 }
 
-.peas:hover {
+.peas1:hover {
     color:#fffbfb;
     background-color:#B1818D;
 }
 
 .peas2 {
-    border: 0.17rem solid green;
-    width: 8rem;
-    height: 2rem;
-    transform: rotate(270deg);
-    margin-right: 8rem;
+  grid-column-start: 2;
+  grid-row-start: 5;
+  border: 0.17rem solid green;
+  border-radius: 50%;
   }
   
-  .peas2 p {
+.peas2 p {
       text-align: center;
       margin: 0.5rem;
   }
   
-  .peas2:hover {
+.peas2:hover {
       color:#fffbfb;
       background-color:#B1818D;
   }
+
+.peas3 {
+    grid-column-start: 3;
+    grid-row-start: 5;
+    border: 0.17rem solid green;
+    border-radius: 50%;
+    }
+    
+.peas3 p {
+    text-align: center;
+    margin: 0.5rem;
+    }
+    
+.peas3:hover {
+    color:#fffbfb;
+    background-color:#B1818D;
+    }
+
+.peas4 {
+      grid-column-start: 1;
+      grid-row-start: 4;
+      border: 0.17rem solid green;
+      }
+      
+.peas4 p {
+      text-align: center;
+      margin: 0.5rem;
+      }
+      
+.peas4:hover {
+      color:#fffbfb;
+      background-color:#B1818D;
+      }
+
+.foxglove1 {
+        grid-column-start: 2;
+        grid-row-start: 4;
+        border: 0.17rem solid green;
+        }
+        
+.foxglove1 p {
+        text-align: center;
+        margin: 0.5rem;
+        font-size: 0.80rem;
+        }
+        
+.foxglove1:hover {
+        color:#fffbfb;
+        background-color:#B1818D;
+        }
+
+.foxglove2 {
+          grid-column-start: 3;
+          grid-row-start: 4;
+          border: 0.17rem solid green;
+          }
+          
+.foxglove2 p {
+          text-align: center;
+          margin: 0.5rem;
+          font-size: 0.80rem;
+          }
+          
+  .foxglove2:hover {
+          color:#fffbfb;
+          background-color:#B1818D;
+          }
+  
 
 .garden2box
 {
