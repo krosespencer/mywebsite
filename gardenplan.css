@@ -258,6 +258,48 @@ html, body{
   background-color:#B1818D;
 }
 
+.daisy2 {
+  grid-column-start: 3;
+  grid-row-start: 2;
+  border: 0.17rem solid green;
+  border-radius: 50%;
+  width:3.5rem;
+  height:3.5rem;
+}
+                                   
+.daisy2 p {
+    text-align: center;
+    line-height: 2.5rem;
+    margin:0.5rem;
+    font-size:0.8rem;
+}
+                                
+.daisy2:hover {
+  color:#fffbfb;
+  background-color:#B1818D;
+}
+
+.daisy3 {
+  grid-column-start: 2;
+  grid-row-start: 1;
+  border: 0.17rem solid green;
+  border-radius: 50%;
+  width:3.5rem;
+  height:3.5rem;
+}
+                                   
+.daisy3 p {
+    text-align: center;
+    line-height: 2.5rem;
+    margin:0.5rem;
+    font-size:0.8rem;
+}
+                                
+.daisy3:hover {
+  color:#fffbfb;
+  background-color:#B1818D;
+}
+
 .garden2box
 {
   border: 0.17rem solid green;
