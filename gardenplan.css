@@ -132,8 +132,8 @@ html, body{
         }
         
 .foxglove1:hover {
-  color:#fffbfb;
-  background-color:rgb(134, 176, 134 );
+  color:black;
+  background-color: #FDE4DA;
   border: none;
         }
 
@@ -154,8 +154,8 @@ html, body{
         }
           
 .foxglove2:hover {
-  color:#fffbfb;
-  background-color:rgb(134, 176, 134 );
+  color: black;
+  background-color: #FDE4DA;
   border: none;
       }
 
@@ -177,7 +177,7 @@ html, body{
         
 .sunflower1:hover {
   color:#fffbfb;
-  background-color:rgb(134, 176, 134 );
+  background-color:#FBE097;
   border: none;
     }
 
@@ -199,7 +199,7 @@ html, body{
           
 .sunflower2:hover {
   color:#fffbfb;
-  background-color:rgb(134, 176, 134 );
+  background-color:#FBE097;
   border: none;
       }
 
@@ -221,7 +221,7 @@ html, body{
             
 .sunflower3:hover {
   color:#fffbfb;
-  background-color:rgb(134, 176, 134 );
+  background-color:#FBE097;
   border: none;
         }
 
