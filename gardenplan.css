@@ -56,6 +56,8 @@ html, body{
   grid-row-start: 5;
   border: 0.17rem solid green;
   border-radius: 50%;
+  width:3.5rem;
+  height:3.5rem;
   }
   
 .peas2 p {
@@ -73,6 +75,8 @@ html, body{
     grid-row-start: 5;
     border: 0.17rem solid green;
     border-radius: 50%;
+    width:3.5rem;
+    height:3.5rem;
     }
     
 .peas3 p {
@@ -91,6 +95,8 @@ html, body{
       grid-row-start: 4;
       border: 0.17rem solid green;
       border-radius: 50%;
+      width:3.5rem;
+      height:3.5rem;
       }
       
 .peas4 p {
@@ -108,6 +114,8 @@ html, body{
         grid-row-start: 4;
         border: 0.17rem solid green;
         border-radius: 50%;
+        width:3.5rem;
+        height:3.5rem;
         }
         
 .foxglove1 p {
