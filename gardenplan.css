@@ -330,8 +330,8 @@ html, body{
                                 
 .chamo1:hover {
   color: black;
-  background-color:#FFFEEF;
-  border: 0.17rem solid rgb(134, 176, 134);
+  background-color:#FEFFE5;
+  border: 0.17rem solid #FEF1B8;
 }
 
 .thyme1 {
@@ -372,6 +372,18 @@ html, body{
   height:20rem;
   padding: 3rem;
   margin: 3rem;
+}
+
+.titleGardenPlan {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+h2 {
+  color: rgb(134, 176, 134);
+  border: #145E12;
 }
 
 
