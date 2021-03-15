@@ -123,6 +123,7 @@ html, body{
           grid-column-start: 3;
           grid-row-start: 4;
           border: 0.17rem solid green;
+          border-radius: 50%;
           }
           
 .foxglove2 p {
