@@ -49,13 +49,13 @@ html, body{
 .peas1:hover {
     color:#fffbfb;
     background-color:rgb(134, 176, 134 );
-    border: solid white;
+    border: none;
 }
 
 .peas2 {
   grid-column-start: 2;
   grid-row-start: 5;
-  border: 0.17rem solid green;
+  border: 0.17rem solid rgb(134, 176, 134);
   border-radius: 50%;
   width:3.5rem;
   height:3.5rem;
@@ -68,14 +68,15 @@ html, body{
   }
   
 .peas2:hover {
-      color:#fffbfb;
-      background-color:#B1818D;
+  color:white;
+  background-color:rgb(134, 176, 134 );
+  border: none;
   }
 
 .peas3 {
     grid-column-start: 3;
     grid-row-start: 5;
-    border: 0.17rem solid green;
+    border: 0.17rem solid rgb(134, 176, 134);
     border-radius: 50%;
     width:3.5rem;
     height:3.5rem;
@@ -88,17 +89,18 @@ html, body{
     }
     
 .peas3:hover {
-    color:#fffbfb;
-    background-color:#B1818D;
+  color:#fffbfb;
+  background-color:rgb(134, 176, 134 );
+  border: none;
     }
 
 .peas4 {
-      grid-column-start: 1;
-      grid-row-start: 4;
-      border: 0.17rem solid green;
-      border-radius: 50%;
-      width:3.5rem;
-      height:3.5rem;
+  grid-column-start: 1;
+  grid-row-start: 4;
+  border: 0.17rem solid rgb(134, 176, 134);
+  border-radius: 50%;
+  width:3.5rem;
+  height:3.5rem;
       }
       
 .peas4 p {
@@ -108,17 +110,18 @@ html, body{
       }
       
 .peas4:hover {
-      color:#fffbfb;
-      background-color:#B1818D;
-      }
+  color:#fffbfb;
+  background-color:rgb(134, 176, 134 );
+  border: none;
+}
 
 .foxglove1 {
-        grid-column-start: 2;
-        grid-row-start: 4;
-        border: 0.17rem solid green;
-        border-radius: 50%;
-        width:3.5rem;
-        height:3.5rem;
+    grid-column-start: 2;
+    grid-row-start: 4;
+    border: 0.17rem solid rgb(134, 176, 134);
+    border-radius: 50%;
+    width:3.5rem;
+    height:3.5rem;
         }
         
 .foxglove1 p {
@@ -129,17 +132,18 @@ html, body{
         }
         
 .foxglove1:hover {
-        color:#fffbfb;
-        background-color:#B1818D;
+  color:#fffbfb;
+  background-color:rgb(134, 176, 134 );
+  border: none;
         }
 
 .foxglove2 {
-          grid-column-start: 3;
-          grid-row-start: 4;
-          border: 0.17rem solid green;
-          border-radius: 50%;
-          width:3.5rem;
-          height:3.5rem;
+  grid-column-start: 3;
+  grid-row-start: 4;
+  border: 0.17rem solid rgb(134, 176, 134);
+  border-radius: 50%;
+  width:3.5rem;
+  height:3.5rem;
           }
           
 .foxglove2 p {
@@ -150,14 +154,15 @@ html, body{
         }
           
 .foxglove2:hover {
-    color:#fffbfb;
-    background-color:#B1818D;
+  color:#fffbfb;
+  background-color:rgb(134, 176, 134 );
+  border: none;
       }
 
 .sunflower1 {
     grid-column-start: 3;
     grid-row-start: 3;
-    border: 0.17rem solid green;
+    border: 0.17rem solid rgb(134, 176, 134);
     border-radius: 50%;
     width:3.5rem;
     height:3.5rem;
@@ -172,17 +177,18 @@ html, body{
         
 .sunflower1:hover {
   color:#fffbfb;
-  background-color:#B1818D;
+  background-color:rgb(134, 176, 134 );
+  border: none;
     }
 
 .sunflower2 {
-      grid-column-start: 2;
-      grid-row-start: 3;
-      border: 0.17rem solid green;
-      border-radius: 50%;
-      width:3.5rem;
-      height:3.5rem;
-          }
+    grid-column-start: 2;
+    grid-row-start: 3;
+    border: 0.17rem solid rgb(134, 176, 134);
+    border-radius: 50%;
+    width:3.5rem;
+    height:3.5rem;
+        }
              
 .sunflower2 p {
       text-align: center;
@@ -192,14 +198,15 @@ html, body{
         }
           
 .sunflower2:hover {
-    color:#fffbfb;
-    background-color:#B1818D;
+  color:#fffbfb;
+  background-color:rgb(134, 176, 134 );
+  border: none;
       }
 
 .sunflower3 {
     grid-column-start: 1;
     grid-row-start: 3;
-    border: 0.17rem solid green;
+    border: 0.17rem solid rgb(134, 176, 134);
     border-radius: 50%;
     width:3.5rem;
     height:3.5rem;
@@ -214,13 +221,14 @@ html, body{
             
 .sunflower3:hover {
   color:#fffbfb;
-  background-color:#B1818D;
+  background-color:rgb(134, 176, 134 );
+  border: none;
         }
 
 .yarrow1 {
   grid-column-start: 1;
   grid-row-start: 2;
-  border: 0.17rem solid green;
+  border: 0.17rem solid rgb(134, 176, 134);
   border-radius: 50%;
   width:3.5rem;
   height:3.5rem;
@@ -235,13 +243,14 @@ html, body{
                   
 .yarrow1:hover {
   color:#fffbfb;
-  background-color:#B1818D;
+  background-color:rgb(134, 176, 134 );
+  border: none;
 }
 
 .daisy1 {
   grid-column-start: 2;
   grid-row-start: 2;
-  border: 0.17rem solid green;
+  border: 0.17rem solid rgb(134, 176, 134);
   border-radius: 50%;
   width:3.5rem;
   height:3.5rem;
@@ -256,13 +265,14 @@ html, body{
                                 
 .daisy1:hover {
   color:#fffbfb;
-  background-color:#B1818D;
+  background-color:rgb(134, 176, 134 );
+  border: none;
 }
 
 .daisy2 {
   grid-column-start: 3;
   grid-row-start: 2;
-  border: 0.17rem solid green;
+  border: 0.17rem solid rgb(134, 176, 134);
   border-radius: 50%;
   width:3.5rem;
   height:3.5rem;
@@ -277,13 +287,14 @@ html, body{
                                 
 .daisy2:hover {
   color:#fffbfb;
-  background-color:#B1818D;
+  background-color:rgb(134, 176, 134 );
+  border: none;
 }
 
 .daisy3 {
   grid-column-start: 2;
   grid-row-start: 1;
-  border: 0.17rem solid green;
+  border: 0.17rem solid rgb(134, 176, 134);
   border-radius: 50%;
   width:3.5rem;
   height:3.5rem;
@@ -298,13 +309,14 @@ html, body{
                                 
 .daisy3:hover {
   color:#fffbfb;
-  background-color:#B1818D;
+  background-color:rgb(134, 176, 134 );
+  border: none;
 }
 
 .chamo1 {
   grid-column-start: 1;
   grid-row-start: 1;
-  border: 0.17rem solid green;
+  border: 0.17rem solid rgb(134, 176, 134);
   border-radius: 50%;
   width:3.5rem;
   height:3.5rem;
@@ -318,13 +330,14 @@ html, body{
                                 
 .chamo1:hover {
   color:#fffbfb;
-  background-color:#B1818D;
+  background-color:rgb(134, 176, 134);
+  border: none;
 }
 
 .thyme1 {
   grid-column-start: 3;
   grid-row-start: 1;
-  border: 0.17rem solid green;
+  border: 0.17rem solid rgb(134, 176, 134);
   border-radius: 50%;
   width:3.5rem;
   height:3.5rem;
@@ -339,7 +352,8 @@ html, body{
                                 
 .thyme1:hover {
   color:#fffbfb;
-  background-color:#B1818D;
+  background-color:rgb(134, 176, 134);
+  border: none;
 }
 
 .garden2box
