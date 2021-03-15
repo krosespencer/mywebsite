@@ -80,12 +80,14 @@ html, body{
 .peas3:hover {
     color:#fffbfb;
     background-color:#B1818D;
+
     }
 
 .peas4 {
       grid-column-start: 1;
       grid-row-start: 4;
       border: 0.17rem solid green;
+      border-radius: 50%;
       }
       
 .peas4 p {
@@ -102,12 +104,14 @@ html, body{
         grid-column-start: 2;
         grid-row-start: 4;
         border: 0.17rem solid green;
+        border-radius: 50%;
         }
         
 .foxglove1 p {
         text-align: center;
         margin: 0.5rem;
         font-size: 0.80rem;
+        border-radius: 50%;
         }
         
 .foxglove1:hover {
