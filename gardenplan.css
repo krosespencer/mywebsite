@@ -358,11 +358,37 @@ html, body{
 
 .garden2box
 {
-  border: 0.17rem solid green;
-  width: 10rem;
-  height:20rem;
-  padding: 3rem;
+  display: grid;
+  grid-template-columns: 5rem 5rem 5rem;
+  grid-template-rows: 5rem 5rem 5rem 5rem 5rem;
+  justify-items: center;
+  align-items: center;
+  border: 0.2rem solid rgb(71, 119, 71);
+  width: 15rem;
+  height:25rem;
   margin: 3rem;
+}
+
+.stock1 {
+  grid-column-start: 1;
+  grid-row-start: 5;
+  border: 0.17rem solid rgb(134, 176, 134);
+  border-radius: 50%;
+  width:3.5rem;
+  height:3.5rem;
+}
+
+.stock1 p {
+  text-align: center;
+  line-height: 2.5rem;
+  margin: 0.5rem;
+  font-size: 0.9rem;
+}
+
+.stock:hover {
+  color:#fffbfb;
+  background-color:#145E12 ;
+  border: none;
 }
 
 .garden3box
