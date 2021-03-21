@@ -457,6 +457,28 @@ html, body{
   border: none;
 }
 
+.carrot1 {
+  grid-column-start: 2;
+  grid-row-start: 4;
+  border: 0.17rem solid rgb(134, 176, 134);
+  border-radius: 50%;
+  width:3.5rem;
+  height:3.5rem;
+}
+
+.carrot1 p {
+  text-align: center;
+  line-height: 2.5rem;
+  margin: 0.5rem;
+  font-size: 0.8rem;
+}
+
+.carrot1:hover {
+  color: white;
+  background-color: rgb(137, 190, 112);
+  border: solid rgb(230, 164, 89);
+}
+
 .garden3box
 {
   border: 0.17rem solid green;
