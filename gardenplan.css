@@ -837,6 +837,48 @@ html, body{
   border: none;
 }
 
+.tulsi1 {
+  grid-column-start: 1;
+  grid-row-start: 3;
+  border: 0.17rem solid rgb(134, 176, 134);
+  border-radius: 50%;
+  width:3.5rem;
+  height:3.5rem;
+}
+                                   
+.tulsi1 p {
+    text-align: center;
+    line-height: 2.0rem;
+    font-size:0.8rem;
+}
+                                
+.tulsi1:hover {
+  color: white;
+  background-color: rgb(60, 150, 47);
+  border: none;
+}
+
+.tulsi2 {
+  grid-column-start: 2;
+  grid-row-start: 3;
+  border: 0.17rem solid rgb(134, 176, 134);
+  border-radius: 50%;
+  width:3.5rem;
+  height:3.5rem;
+}
+                                   
+.tulsi2 p {
+    text-align: center;
+    line-height: 2.0rem;
+    font-size:0.8rem;
+}
+                                
+.tulsi2:hover {
+  color: white;
+  background-color: rgb(60, 150, 47);
+  border: none;
+}
+
 .titleGardenPlan {
   display: flex;
   flex-direction: column;
