@@ -435,6 +435,28 @@ html, body{
   border: none;
 }
 
+.chives {
+  grid-column-start: 1;
+  grid-row-start: 4;
+  border: 0.17rem solid rgb(134, 176, 134);
+  border-radius: 50%;
+  width:3.5rem;
+  height:3.5rem;
+}
+
+.chives p {
+  text-align: center;
+  line-height: 2.5rem;
+  margin: 0.5rem;
+  font-size: 0.9rem;
+}
+
+.chives:hover {
+  color: white;
+  background-color: rgb(137, 190, 112);
+  border: none;
+}
+
 .garden3box
 {
   border: 0.17rem solid green;
