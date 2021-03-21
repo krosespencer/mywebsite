@@ -520,7 +520,7 @@ html, body{
 
 .calendula1:hover {
   color: white;
-  background-color: rgb(248, 171, 135);
+  background-color: rgb(234, 121, 102);
   border: none;
 }
 
@@ -673,8 +673,29 @@ html, body{
                                 
 .yarrow2:hover {
   color:#fffbfb;
-  background-color: rgb(231, 105, 103);
+  background-color: rgb(229, 100, 92);
   border: none;
+}
+
+.chamo3 {
+  grid-column-start: 1;
+  grid-row-start: 1;
+  border: 0.17rem solid rgb(134, 176, 134);
+  border-radius: 50%;
+  width:3.5rem;
+  height:3.5rem;
+}
+                                   
+.chamo3 p {
+    text-align: center;
+    line-height: 2.5rem;
+    font-size:0.3rem;
+}
+                                
+.chamo3:hover {
+  color: black;
+  background-color:#FEFFE5;
+  border: 0.17rem solid #FEF1B8;
 }
 
 
