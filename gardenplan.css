@@ -193,7 +193,7 @@ html, body{
 .sunflower1:hover {
   color:#fffbfb;
   background-color:#FBE097;
-  border: none;
+  border: solid rgb(114, 173, 87);
     }
 
 .sunflower2 {
@@ -215,7 +215,7 @@ html, body{
 .sunflower2:hover {
   color:#fffbfb;
   background-color:#FBE097;
-  border: none;
+  border: solid rgb(114, 173, 87);
       }
 
 .sunflower3 {
@@ -237,7 +237,7 @@ html, body{
 .sunflower3:hover {
   color:#fffbfb;
   background-color:#FBE097;
-  border: none;
+  border: solid rgb(114, 173, 87);
         }
 
 .yarrow1 {
@@ -934,7 +934,7 @@ html, body{
 .tom1:hover {
   color: white;
   background-color: rgb(60, 150, 47);
-  border: none;
+  border: solid rgb(223, 103, 73);
 }
 
 .basil {
@@ -978,7 +978,7 @@ html, body{
 .tom2:hover {
   color: white;
   background-color: rgb(60, 150, 47);
-  border: none;
+  border: solid rgb(223, 103, 73);
 }
 
 .garlic3 {
