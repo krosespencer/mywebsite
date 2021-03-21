@@ -324,7 +324,7 @@ html, body{
                                    
 .chamo1 p {
     text-align: center;
-    line-height: 2.5rem;
+    line-height: 2.75rem;
     font-size:0.3rem;
 }
                                 
@@ -604,7 +604,7 @@ html, body{
                                    
 .chamo2 p {
     text-align: center;
-    line-height: 2.5rem;
+    line-height: 2.75rem;
     font-size:0.3rem;
 }
                                 
@@ -667,7 +667,7 @@ html, body{
                                    
 .yarrow2 p {
     text-align: center;
-    line-height: 2.5rem;
+    line-height: 2.0rem;
     font-size:0.6rem;
 }
                                 
@@ -688,7 +688,7 @@ html, body{
                                    
 .chamo3 p {
     text-align: center;
-    line-height: 2.5rem;
+    line-height: 2.75rem;
     font-size:0.3rem;
 }
                                 
@@ -698,14 +698,101 @@ html, body{
   border: 0.17rem solid #FEF1B8;
 }
 
-
 .garden3box
 {
-  border: 0.17rem solid green;
-  width: 10rem;
-  height:20rem;
-  padding: 3rem;
+  display: grid;
+  grid-template-columns: 5rem 5rem 5rem;
+  grid-template-rows: 5rem 5rem 5rem 5rem 5rem;
+  justify-items: center;
+  align-items: center;
+  border: 0.2rem solid rgb(71, 119, 71);
+  width: 15rem;
+  height:25rem;
   margin: 3rem;
+}
+
+.fava1 {
+  grid-column-start: 1;
+  grid-row-start: 5;
+  border: 0.17rem solid rgb(134, 176, 134);
+  border-radius: 50%;
+  width:3.5rem;
+  height:3.5rem;
+}
+                                   
+.fava1 p {
+    text-align: center;
+    line-height: 2.0rem;
+    font-size:0.8rem;
+}
+                                
+.fava1:hover {
+  color: white;
+  background-color: rgb(90, 158, 75 );
+  border: none;
+}
+
+.fava2 {
+  grid-column-start: 2;
+  grid-row-start: 5;
+  border: 0.17rem solid rgb(134, 176, 134);
+  border-radius: 50%;
+  width:3.5rem;
+  height:3.5rem;
+}
+                                   
+.fava2 p {
+    text-align: center;
+    line-height: 2.0rem;
+    font-size:0.8rem;
+}
+                                
+.fava2:hover {
+  color: white;
+  background-color: rgb(90, 158, 75 );
+  border: none;
+}
+
+.fava3 {
+  grid-column-start: 3;
+  grid-row-start: 5;
+  border: 0.17rem solid rgb(134, 176, 134);
+  border-radius: 50%;
+  width:3.5rem;
+  height:3.5rem;
+}
+                                   
+.fava3 p {
+    text-align: center;
+    line-height: 2.0rem;
+    font-size:0.8rem;
+}
+                                
+.fava3:hover {
+  color: white;
+  background-color: rgb(90, 158, 75 );
+  border: none;
+}
+
+.fava4 {
+  grid-column-start: 1;
+  grid-row-start: 4;
+  border: 0.17rem solid rgb(134, 176, 134);
+  border-radius: 50%;
+  width:3.5rem;
+  height:3.5rem;
+}
+                                   
+.fava4 p {
+    text-align: center;
+    line-height: 2.0rem;
+    font-size:0.8rem;
+}
+                                
+.fava4:hover {
+  color: white;
+  background-color: rgb(90, 158, 75 );
+  border: none;
 }
 
 .titleGardenPlan {
