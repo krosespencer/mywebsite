@@ -28,7 +28,13 @@ html, body{
   border: 0.2rem solid rgb(71, 119, 71);
   width: 15rem;
   height:25rem;
-  margin: 3rem;
+  margin: 0rem;
+}
+
+.heightmeasure {
+  transform: rotate(-90deg);
+  margin:0rem;
+  font-size: 1.5rem;
 }
 
 .peas1 {
@@ -708,7 +714,7 @@ html, body{
   border: 0.2rem solid rgb(71, 119, 71);
   width: 15rem;
   height:25rem;
-  margin: 3rem;
+  margin: 0rem;
 }
 
 .fava1 {
