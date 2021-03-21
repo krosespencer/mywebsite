@@ -879,6 +879,27 @@ html, body{
   border: none;
 }
 
+.tulsi3 {
+  grid-column-start: 3;
+  grid-row-start: 3;
+  border: 0.17rem solid rgb(134, 176, 134);
+  border-radius: 50%;
+  width:3.5rem;
+  height:3.5rem;
+}
+                                   
+.tulsi3 p {
+    text-align: center;
+    line-height: 2.0rem;
+    font-size:0.8rem;
+}
+                                
+.tulsi3:hover {
+  color: white;
+  background-color: rgb(60, 150, 47);
+  border: none;
+}
+
 .titleGardenPlan {
   display: flex;
   flex-direction: column;
