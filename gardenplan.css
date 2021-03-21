@@ -448,7 +448,7 @@ html, body{
   text-align: center;
   line-height: 2.5rem;
   margin: 0.5rem;
-  font-size: 0.9rem;
+  font-size: 0.8rem;
 }
 
 .chives:hover {
@@ -584,7 +584,7 @@ html, body{
   justify-content: center;
   line-height: 2.5rem;
   margin: 0.5rem;
-  font-size: 0.65rem;
+  font-size: 0.6rem;
 }
 
 .lav:hover {
@@ -604,7 +604,7 @@ html, body{
                                    
 .chamo2 p {
     text-align: center;
-    line-height: 2.75rem;
+    line-height: 2.8rem;
     font-size:0.3rem;
 }
                                 
@@ -625,7 +625,7 @@ html, body{
                                    
 .rosemary1 p {
     text-align: center;
-    line-height: 2.5rem;
+    line-height: 2.8rem;
     font-size:0.3rem;
 }
                                 
@@ -1040,7 +1040,6 @@ html, body{
   flex-direction: column;
   align-items: center;
   justify-content: center;
- 
 }
 
 h2 {
