@@ -1,0 +1,1077 @@
+html, body{
+    font-family: 'Noto Sans', sans-serif;
+    background:rgb(255, 246, 246);
+    width: 100%;
+    margin:0rem;
+    padding:0rem;
+  }
+
+  a {
+    text-decoration: none;
+    color: #AA4545;
+}
+
+.garden_container {
+    display:flex;
+    align-items: center; 
+    justify-content: center;
+    margin: 0.5rem;
+}
+
+.heightmeasure {
+  transform: rotate(-90deg);
+  margin:0rem;
+  font-size: 1.0rem;
+  font-weight: bold;
+}
+
+.garden1box
+{
+  display: grid;
+  grid-template-columns: 5rem 5rem 5rem;
+  grid-template-rows: 5rem 5rem 5rem 5rem 5rem;
+  justify-items: center;
+  align-items: center;
+  border: 0.2rem solid rgb(71, 119, 71);
+  width: 15rem;
+  height:25rem;
+  margin: 0rem;
+}
+
+.widthmeasure {
+  grid-column-start: 2;
+  grid-row-start: 6;
+  margin:0.9rem 0rem 0rem 0rem;
+  font-size: 0.95rem;
+  font-weight: bold;
+}
+
+.peas1 {
+  grid-column-start: 1;
+  grid-row-start: 5;
+  border: 0.17rem solid #86B086;
+  border-radius: 50%;
+  width:3.5rem;
+  height:3.5rem;
+}
+
+.peas1 p {
+    text-align: center;
+    line-height: 2.5rem;
+    margin:0.5rem;
+}
+
+.peas1:hover {
+    color:#fffbfb;
+    background-color: #73AE74;
+    border: none;
+}
+
+.peas2 {
+  grid-column-start: 2;
+  grid-row-start: 5;
+  border: 0.17rem solid #86B086;
+  border-radius: 50%;
+  width:3.5rem;
+  height:3.5rem;
+  }
+  
+.peas2 p {
+      text-align: center;
+      line-height: 2.5rem;
+      margin:0.5rem;
+  }
+  
+.peas2:hover {
+  color:white;
+  background-color:#73AE74 ;
+  border: none;
+  }
+
+.peas3 {
+    grid-column-start: 3;
+    grid-row-start: 5;
+    border: 0.17rem solid #86B086;
+    border-radius: 50%;
+    width:3.5rem;
+    height:3.5rem;
+    }
+    
+.peas3 p {
+    text-align: center;
+    line-height: 2.5rem;
+    margin:0.5rem;
+    }
+    
+.peas3:hover {
+  color:#fffbfb;
+  background-color:#73AE74 ;
+  border: none;
+    }
+
+.peas4 {
+  grid-column-start: 1;
+  grid-row-start: 4;
+  border: 0.17rem solid #86B086;
+  border-radius: 50%;
+  width:3.5rem;
+  height:3.5rem;
+      }
+      
+.peas4 p {
+      text-align: center;
+      line-height: 2.5rem;
+      margin:0.5rem;
+      }
+      
+.peas4:hover {
+  color:#fffbfb;
+  background-color:#73AE74 ;
+  border: none;
+}
+
+.foxglove1 {
+    grid-column-start: 2;
+    grid-row-start: 4;
+    border: 0.17rem solid #86B086;
+    border-radius: 50%;
+    width:3.5rem;
+    height:3.5rem;
+        }
+        
+.foxglove1 p {
+        text-align: center;
+        line-height: 2.5rem;
+        margin:0.5rem;
+        font-size:0.65rem;
+        }
+        
+.foxglove1:hover {
+  color:black;
+  background-color: #FDE4DA;
+  border: none;
+        }
+
+.foxglove2 {
+  grid-column-start: 3;
+  grid-row-start: 4;
+  border: 0.17rem solid rgb(134, 176, 134);
+  border-radius: 50%;
+  width:3.5rem;
+  height:3.5rem;
+          }
+          
+.foxglove2 p {
+  text-align: center;
+  line-height: 2.5rem;
+  margin:0.5rem;
+  font-size:0.65rem;
+        }
+          
+.foxglove2:hover {
+  color: black;
+  background-color: #FDE4DA;
+  border: none;
+      }
+
+.sunflower1 {
+    grid-column-start: 3;
+    grid-row-start: 3;
+    border: 0.17rem solid rgb(134, 176, 134);
+    border-radius: 50%;
+    width:3.5rem;
+    height:3.5rem;
+        }
+        
+.sunflower1 p {
+    text-align: center;
+    line-height: 2.5rem;
+    margin:0.5rem;
+    font-size:1.5rem;
+      }
+        
+.sunflower1:hover {
+  color:#fffbfb;
+  background-color:#FBE097;
+  border: none;
+    }
+
+.sunflower2 {
+    grid-column-start: 2;
+    grid-row-start: 3;
+    border: 0.17rem solid rgb(134, 176, 134);
+    border-radius: 50%;
+    width:3.5rem;
+    height:3.5rem;
+        }
+             
+.sunflower2 p {
+      text-align: center;
+      line-height: 2.5rem;
+      margin:0.5rem;
+      font-size:1.5rem;
+        }
+          
+.sunflower2:hover {
+  color:#fffbfb;
+  background-color:#FBE097;
+  border: none;
+      }
+
+.sunflower3 {
+    grid-column-start: 1;
+    grid-row-start: 3;
+    border: 0.17rem solid rgb(134, 176, 134);
+    border-radius: 50%;
+    width:3.5rem;
+    height:3.5rem;
+            }
+               
+.sunflower3 p {
+  text-align: center;
+  line-height: 2.5rem;
+  margin:0.5rem;
+  font-size:1.5rem;
+          }
+            
+.sunflower3:hover {
+  color:#fffbfb;
+  background-color:#FBE097;
+  border: none;
+        }
+
+.yarrow1 {
+  grid-column-start: 1;
+  grid-row-start: 2;
+  border: 0.17rem solid rgb(134, 176, 134);
+  border-radius: 50%;
+  width:3.5rem;
+  height:3.5rem;
+                  }
+                     
+.yarrow1 p {
+  text-align: center;
+  line-height: 2.5rem;
+  margin:0.5rem;
+  font-size:0.80rem;
+                }
+                  
+.yarrow1:hover {
+  color:black;
+  background-color:#FFF88B ;
+  border: none;
+}
+
+.daisy1 {
+  grid-column-start: 2;
+  grid-row-start: 2;
+  border: 0.17rem solid rgb(134, 176, 134);
+  border-radius: 50%;
+  width:3.5rem;
+  height:3.5rem;
+}
+                                   
+.daisy1 p {
+    text-align: center;
+    line-height: 2.5rem;
+    margin:0.5rem;
+    font-size:0.8rem;
+}
+                                
+.daisy1:hover {
+  color:black;
+  background-color:#FEBBA4;
+  border: none;
+}
+
+.daisy2 {
+  grid-column-start: 3;
+  grid-row-start: 2;
+  border: 0.17rem solid rgb(134, 176, 134);
+  border-radius: 50%;
+  width:3.5rem;
+  height:3.5rem;
+}
+                                   
+.daisy2 p {
+    text-align: center;
+    line-height: 2.5rem;
+    margin:0.5rem;
+    font-size:0.8rem;
+}
+                                
+.daisy2:hover {
+  color:black;
+  background-color:#FEBBA4;
+  border: none;
+}
+
+.daisy3 {
+  grid-column-start: 2;
+  grid-row-start: 1;
+  border: 0.17rem solid rgb(134, 176, 134);
+  border-radius: 50%;
+  width:3.5rem;
+  height:3.5rem;
+}
+                                   
+.daisy3 p {
+    text-align: center;
+    line-height: 2.5rem;
+    margin:0.5rem;
+    font-size:0.8rem;
+}
+                                
+.daisy3:hover {
+  color:black;
+  background-color:#FEBBA4;
+  border: none;
+}
+
+.chamo1 {
+  grid-column-start: 1;
+  grid-row-start: 1;
+  border: 0.17rem solid rgb(134, 176, 134);
+  border-radius: 50%;
+  width:3.5rem;
+  height:3.5rem;
+}
+                                   
+.chamo1 p {
+    text-align: center;
+    line-height: 2.75rem;
+    font-size:0.3rem;
+}
+                                
+.chamo1:hover {
+  color: black;
+  background-color:#FEFFE5;
+  border: 0.17rem solid #FEF1B8;
+}
+
+.thyme1 {
+  grid-column-start: 3;
+  grid-row-start: 1;
+  border: 0.17rem solid rgb(134, 176, 134);
+  border-radius: 50%;
+  width:3.5rem;
+  height:3.5rem;
+}
+                                   
+.thyme1 p {
+    text-align: center;
+    line-height: 2.5rem;
+    margin:0.5rem;
+    font-size:0.8rem;
+}
+                                
+.thyme1:hover {
+  color:#fffbfb;
+  background-color:#145E12 ;
+  border: none;
+}
+
+.garden2box
+{
+  display: grid;
+  grid-template-columns: 5rem 5rem 5rem;
+  grid-template-rows: 5rem 5rem 5rem 5rem 5rem;
+  justify-items: center;
+  align-items: center;
+  border: 0.2rem solid rgb(71, 119, 71);
+  width: 15rem;
+  height:25rem;
+  margin: 3rem;
+}
+
+.stock1 {
+  grid-column-start: 1;
+  grid-row-start: 5;
+  border: 0.17rem solid rgb(134, 176, 134);
+  border-radius: 50%;
+  width:3.5rem;
+  height:3.5rem;
+}
+
+.stock1 p {
+  text-align: center;
+  line-height: 2.5rem;
+  margin: 0.5rem;
+  font-size: 0.9rem;
+}
+
+.stock1:hover {
+  color: black;
+  background-color: #FFF88B;
+  border: none;
+}
+
+.stock2 {
+  grid-column-start: 2;
+  grid-row-start: 5;
+  border: 0.17rem solid rgb(134, 176, 134);
+  border-radius: 50%;
+  width:3.5rem;
+  height:3.5rem;
+}
+
+.stock2 p {
+  text-align: center;
+  line-height: 2.5rem;
+  margin: 0.5rem;
+  font-size: 0.9rem;
+}
+
+.stock2:hover {
+  color: black;
+  background-color: #FFF88B;
+  border: none;
+}
+
+.stock3 {
+  grid-column-start: 3;
+  grid-row-start: 5;
+  border: 0.17rem solid rgb(134, 176, 134);
+  border-radius: 50%;
+  width:3.5rem;
+  height:3.5rem;
+}
+
+.stock3 p {
+  text-align: center;
+  line-height: 2.5rem;
+  margin: 0.5rem;
+  font-size: 0.9rem;
+}
+
+.stock3:hover {
+  color: black;
+  background-color: #FFF88B;
+  border: none;
+}
+
+.chives {
+  grid-column-start: 1;
+  grid-row-start: 4;
+  border: 0.17rem solid rgb(134, 176, 134);
+  border-radius: 50%;
+  width:3.5rem;
+  height:3.5rem;
+}
+
+.chives p {
+  text-align: center;
+  line-height: 2.5rem;
+  margin: 0.5rem;
+  font-size: 0.8rem;
+}
+
+.chives:hover {
+  color: white;
+  background-color: rgb(125, 182, 99);
+  border: none;
+}
+
+.carrot1 {
+  grid-column-start: 2;
+  grid-row-start: 4;
+  border: 0.17rem solid rgb(134, 176, 134);
+  border-radius: 50%;
+  width:3.5rem;
+  height:3.5rem;
+}
+
+.carrot1 p {
+  text-align: center;
+  line-height: 2.5rem;
+  margin: 0.5rem;
+  font-size: 0.8rem;
+}
+
+.carrot1:hover {
+  color: white;
+  background-color: rgb(137, 190, 112);
+  border: solid rgb(230, 164, 89);
+}
+
+.carrot2 {
+  grid-column-start: 3;
+  grid-row-start: 4;
+  border: 0.17rem solid rgb(134, 176, 134);
+  border-radius: 50%;
+  width:3.5rem;
+  height:3.5rem;
+}
+
+.carrot2 p {
+  text-align: center;
+  line-height: 2.5rem;
+  margin: 0.5rem;
+  font-size: 0.8rem;
+}
+
+.carrot2:hover {
+  color: white;
+  background-color: rgb(137, 190, 112);
+  border: solid rgb(230, 164, 89);
+}
+
+.calendula1 {
+  grid-column-start: 1;
+  grid-row-start: 3;
+  border: 0.17rem solid rgb(134, 176, 134);
+  border-radius: 50%;
+  width:3.5rem;
+  height:3.5rem;
+}
+
+.calendula1 p {
+  text-align: center;
+  justify-content: center;
+  line-height: 2.5rem;
+  margin: 0.5rem;
+  font-size: 0.6rem;
+}
+
+.calendula1:hover {
+  color: white;
+  background-color: rgb(234, 121, 102);
+  border: none;
+}
+
+.garlic1 {
+  grid-column-start: 2;
+  grid-row-start: 3;
+  border: 0.17rem solid rgb(134, 176, 134);
+  border-radius: 50%;
+  width:3.5rem;
+  height:3.5rem;
+}
+
+.garlic1 p {
+  text-align: center;
+  justify-content: center;
+  line-height: 2.5rem;
+  margin: 0.5rem;
+  font-size: 0.8rem;
+}
+
+.garlic1:hover {
+  color: white;
+  background-color: rgb(125, 182, 99);
+  border: none;
+}
+
+.garlic2 {
+  grid-column-start: 3;
+  grid-row-start: 3;
+  border: 0.17rem solid rgb(134, 176, 134);
+  border-radius: 50%;
+  width:3.5rem;
+  height:3.5rem;
+}
+
+.garlic2 p {
+  text-align: center;
+  justify-content: center;
+  line-height: 2.5rem;
+  margin: 0.5rem;
+  font-size: 0.8rem;
+}
+
+.garlic2:hover {
+  color: white;
+  background-color: rgb(114, 173, 87);
+  border: none;
+}
+
+.lav {
+  grid-column-start: 1;
+  grid-row-start: 2;
+  border: 0.17rem solid rgb(134, 176, 134);
+  border-radius: 50%;
+  width:3.5rem;
+  height:3.5rem;
+}
+
+.lav p {
+  text-align: center;
+  justify-content: center;
+  line-height: 2.5rem;
+  margin: 0.5rem;
+  font-size: 0.6rem;
+}
+
+.lav:hover {
+  color: black;
+  background-color: rgb(199, 179, 224);
+  border: none;
+}
+
+.chamo2 {
+  grid-column-start: 2;
+  grid-row-start: 2;
+  border: 0.17rem solid rgb(134, 176, 134);
+  border-radius: 50%;
+  width:3.5rem;
+  height:3.5rem;
+}
+                                   
+.chamo2 p {
+    text-align: center;
+    line-height: 2.8rem;
+    font-size:0.3rem;
+}
+                                
+.chamo2:hover {
+  color: black;
+  background-color:#FEFFE5;
+  border: 0.17rem solid #FEF1B8;
+}
+
+.rosemary1 {
+  grid-column-start: 3;
+  grid-row-start: 2;
+  border: 0.17rem solid rgb(134, 176, 134);
+  border-radius: 50%;
+  width:3.5rem;
+  height:3.5rem;
+}
+                                   
+.rosemary1 p {
+    text-align: center;
+    line-height: 2.8rem;
+    font-size:0.3rem;
+}
+                                
+.rosemary1:hover {
+  color:#fffbfb;
+  background-color:#145E12 ;
+  border: none;
+}
+
+.rosemary2 {
+  grid-column-start: 3;
+  grid-row-start: 1;
+  border: 0.17rem solid rgb(134, 176, 134);
+  border-radius: 50%;
+  width:3.5rem;
+  height:3.5rem;
+}
+                                   
+.rosemary2 p {
+    text-align: center;
+    line-height: 2.5rem;
+    font-size:0.3rem;
+}
+                                
+.rosemary2:hover {
+  color:#fffbfb;
+  background-color:#145E12;
+  border: none;
+}
+
+.yarrow2 {
+  grid-column-start: 2;
+  grid-row-start: 1;
+  border: 0.17rem solid rgb(134, 176, 134);
+  border-radius: 50%;
+  width:3.5rem;
+  height:3.5rem;
+}
+                                   
+.yarrow2 p {
+    text-align: center;
+    line-height: 2.0rem;
+    font-size:0.6rem;
+}
+                                
+.yarrow2:hover {
+  color:#fffbfb;
+  background-color: rgb(229, 100, 92);
+  border: none;
+}
+
+.chamo3 {
+  grid-column-start: 1;
+  grid-row-start: 1;
+  border: 0.17rem solid rgb(134, 176, 134);
+  border-radius: 50%;
+  width:3.5rem;
+  height:3.5rem;
+}
+                                   
+.chamo3 p {
+    text-align: center;
+    line-height: 2.75rem;
+    font-size:0.3rem;
+}
+                                
+.chamo3:hover {
+  color: black;
+  background-color:#FEFFE5;
+  border: 0.17rem solid #FEF1B8;
+}
+
+.garden3box
+{
+  display: grid;
+  grid-template-columns: 5rem 5rem 5rem;
+  grid-template-rows: 5rem 5rem 5rem 5rem 5rem;
+  justify-items: center;
+  align-items: center;
+  border: 0.2rem solid rgb(71, 119, 71);
+  width: 15rem;
+  height:25rem;
+  margin: 0rem;
+}
+
+.fava1 {
+  grid-column-start: 1;
+  grid-row-start: 5;
+  border: 0.17rem solid rgb(134, 176, 134);
+  border-radius: 50%;
+  width:3.5rem;
+  height:3.5rem;
+}
+                                   
+.fava1 p {
+    text-align: center;
+    line-height: 2.0rem;
+    font-size:0.8rem;
+}
+                                
+.fava1:hover {
+  color: white;
+  background-color: rgb(90, 158, 75 );
+  border: none;
+}
+
+.fava2 {
+  grid-column-start: 2;
+  grid-row-start: 5;
+  border: 0.17rem solid rgb(134, 176, 134);
+  border-radius: 50%;
+  width:3.5rem;
+  height:3.5rem;
+}
+                                   
+.fava2 p {
+    text-align: center;
+    line-height: 2.0rem;
+    font-size:0.8rem;
+}
+                                
+.fava2:hover {
+  color: white;
+  background-color: rgb(90, 158, 75 );
+  border: none;
+}
+
+.fava3 {
+  grid-column-start: 3;
+  grid-row-start: 5;
+  border: 0.17rem solid rgb(134, 176, 134);
+  border-radius: 50%;
+  width:3.5rem;
+  height:3.5rem;
+}
+                                   
+.fava3 p {
+    text-align: center;
+    line-height: 2.0rem;
+    font-size:0.8rem;
+}
+                                
+.fava3:hover {
+  color: white;
+  background-color: rgb(90, 158, 75 );
+  border: none;
+}
+
+.fava4 {
+  grid-column-start: 1;
+  grid-row-start: 4;
+  border: 0.17rem solid rgb(134, 176, 134);
+  border-radius: 50%;
+  width:3.5rem;
+  height:3.5rem;
+}
+                                   
+.fava4 p {
+    text-align: center;
+    line-height: 2.0rem;
+    font-size:0.8rem;
+}
+                                
+.fava4:hover {
+  color: white;
+  background-color: rgb(90, 158, 75 );
+  border: none;
+}
+
+.straw {
+  grid-column-start: 2;
+  grid-row-start: 4;
+  border: 0.17rem solid rgb(134, 176, 134);
+  border-radius: 50%;
+  width:3.5rem;
+  height:3.5rem;
+}
+                                   
+.straw p {
+    text-align: center;
+    line-height: 2.5rem;
+    font-size:0.4rem;
+}
+                                
+.straw:hover {
+  color: white;
+  background-color: rgb(198, 80, 134);
+  border: none;
+}
+
+.fava5 {
+  grid-column-start: 3;
+  grid-row-start: 4;
+  border: 0.17rem solid rgb(134, 176, 134);
+  border-radius: 50%;
+  width:3.5rem;
+  height:3.5rem;
+}
+                                   
+.fava5 p {
+    text-align: center;
+    line-height: 2.0rem;
+    font-size:0.8rem;
+}
+                                
+.fava5:hover {
+  color: white;
+  background-color: rgb(90, 158, 75 );
+  border: none;
+}
+
+.tulsi1 {
+  grid-column-start: 1;
+  grid-row-start: 3;
+  border: 0.17rem solid rgb(134, 176, 134);
+  border-radius: 50%;
+  width:3.5rem;
+  height:3.5rem;
+}
+                                   
+.tulsi1 p {
+    text-align: center;
+    line-height: 2.0rem;
+    font-size:0.8rem;
+}
+                                
+.tulsi1:hover {
+  color: white;
+  background-color: rgb(60, 150, 47);
+  border: none;
+}
+
+.tulsi2 {
+  grid-column-start: 2;
+  grid-row-start: 3;
+  border: 0.17rem solid rgb(134, 176, 134);
+  border-radius: 50%;
+  width:3.5rem;
+  height:3.5rem;
+}
+                                   
+.tulsi2 p {
+    text-align: center;
+    line-height: 2.0rem;
+    font-size:0.8rem;
+}
+                                
+.tulsi2:hover {
+  color: white;
+  background-color: rgb(60, 150, 47);
+  border: none;
+}
+
+.tulsi3 {
+  grid-column-start: 3;
+  grid-row-start: 3;
+  border: 0.17rem solid rgb(134, 176, 134);
+  border-radius: 50%;
+  width:3.5rem;
+  height:3.5rem;
+}
+                                   
+.tulsi3 p {
+    text-align: center;
+    line-height: 2.0rem;
+    font-size:0.8rem;
+}
+                                
+.tulsi3:hover {
+  color: white;
+  background-color: rgb(60, 150, 47);
+  border: none;
+}
+
+.tom1 {
+  grid-column-start: 1;
+  grid-row-start: 2;
+  border: 0.17rem solid rgb(134, 176, 134);
+  border-radius: 50%;
+  width:3.5rem;
+  height:3.5rem;
+}
+                                   
+.tom1 p {
+    text-align: center;
+    line-height: 2.5rem;
+    margin:0.5rem;
+    font-size:1.5rem;
+}
+                                
+.tom1:hover {
+  color: white;
+  background-color: rgb(60, 150, 47);
+  border: none;
+}
+
+.basil {
+  grid-column-start: 2;
+  grid-row-start: 2;
+  border: 0.17rem solid rgb(134, 176, 134);
+  border-radius: 50%;
+  width:3.5rem;
+  height:3.5rem;
+}
+                                   
+.basil p {
+    text-align: center;
+    line-height: 2.5rem;
+    margin:0.5rem;
+    font-size:0.8rem;
+}
+                                
+.basil:hover {
+  color: white;
+  background-color: rgb(45, 147, 31);
+  border: none;
+}
+
+.tom2 {
+  grid-column-start: 3;
+  grid-row-start: 2;
+  border: 0.17rem solid rgb(134, 176, 134);
+  border-radius: 50%;
+  width:3.5rem;
+  height:3.5rem;
+}
+                                   
+.tom2 p {
+    text-align: center;
+    line-height: 2.5rem;
+    margin:0.5rem;
+    font-size:1.5rem;
+}
+                                
+.tom2:hover {
+  color: white;
+  background-color: rgb(60, 150, 47);
+  border: none;
+}
+
+.garlic3 {
+  grid-column-start: 1;
+  grid-row-start: 1;
+  border: 0.17rem solid rgb(134, 176, 134);
+  border-radius: 50%;
+  width:3.5rem;
+  height:3.5rem;
+}
+
+.garlic3 p {
+  text-align: center;
+  justify-content: center;
+  line-height: 2.5rem;
+  margin: 0.5rem;
+  font-size: 0.8rem;
+}
+
+.garlic3:hover {
+  color: white;
+  background-color: rgb(125, 182, 99);
+  border: none;
+}
+
+.garlic4 {
+  grid-column-start: 2;
+  grid-row-start: 1;
+  border: 0.17rem solid rgb(134, 176, 134);
+  border-radius: 50%;
+  width:3.5rem;
+  height:3.5rem;
+}
+
+.garlic4 p {
+  text-align: center;
+  justify-content: center;
+  line-height: 2.5rem;
+  margin: 0.5rem;
+  font-size: 0.8rem;
+}
+
+.garlic4:hover {
+  color: white;
+  background-color: rgb(125, 182, 99);
+  border: none;
+}
+
+.garlic5 {
+  grid-column-start: 3;
+  grid-row-start: 1;
+  border: 0.17rem solid rgb(134, 176, 134);
+  border-radius: 50%;
+  width:3.5rem;
+  height:3.5rem;
+}
+
+.garlic5 p {
+  text-align: center;
+  justify-content: center;
+  line-height: 2.5rem;
+  margin: 0.5rem;
+  font-size: 0.8rem;
+}
+
+.garlic5:hover {
+  color: white;
+  background-color: rgb(125, 182, 99);
+  border: none;
+}
+
+.titleGardenPlan {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+h2 {
+  color:#066F06 ;
+  margin: 0.25rem;
+}
+
+h3 {
+  color: #439143;
+  margin: 0.25rem;
+}
+
+footer {
+    position: absolute; 
+    font-size:0.75rem;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+  }
