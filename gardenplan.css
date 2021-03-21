@@ -795,6 +795,48 @@ html, body{
   border: none;
 }
 
+.straw {
+  grid-column-start: 2;
+  grid-row-start: 4;
+  border: 0.17rem solid rgb(134, 176, 134);
+  border-radius: 50%;
+  width:3.5rem;
+  height:3.5rem;
+}
+                                   
+.straw p {
+    text-align: center;
+    line-height: 2.5rem;
+    font-size:0.4rem;
+}
+                                
+.straw:hover {
+  color: white;
+  background-color: rgb(198, 80, 134);
+  border: none;
+}
+
+.fava5 {
+  grid-column-start: 3;
+  grid-row-start: 4;
+  border: 0.17rem solid rgb(134, 176, 134);
+  border-radius: 50%;
+  width:3.5rem;
+  height:3.5rem;
+}
+                                   
+.fava5 p {
+    text-align: center;
+    line-height: 2.0rem;
+    font-size:0.8rem;
+}
+                                
+.fava5:hover {
+  color: white;
+  background-color: rgb(90, 158, 75 );
+  border: none;
+}
+
 .titleGardenPlan {
   display: flex;
   flex-direction: column;
