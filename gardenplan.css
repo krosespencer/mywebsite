@@ -656,6 +656,27 @@ html, body{
   border: none;
 }
 
+.yarrow2 {
+  grid-column-start: 2;
+  grid-row-start: 1;
+  border: 0.17rem solid rgb(134, 176, 134);
+  border-radius: 50%;
+  width:3.5rem;
+  height:3.5rem;
+}
+                                   
+.yarrow2 p {
+    text-align: center;
+    line-height: 2.5rem;
+    font-size:0.6rem;
+}
+                                
+.yarrow2:hover {
+  color:#fffbfb;
+  background-color: rgb(231, 105, 103);
+  border: none;
+}
+
 
 .garden3box
 {
