@@ -614,6 +614,48 @@ html, body{
   border: 0.17rem solid #FEF1B8;
 }
 
+.rosemary1 {
+  grid-column-start: 3;
+  grid-row-start: 2;
+  border: 0.17rem solid rgb(134, 176, 134);
+  border-radius: 50%;
+  width:3.5rem;
+  height:3.5rem;
+}
+                                   
+.rosemary1 p {
+    text-align: center;
+    line-height: 2.5rem;
+    font-size:0.3rem;
+}
+                                
+.rosemary1:hover {
+  color:#fffbfb;
+  background-color:#145E12 ;
+  border: none;
+}
+
+.rosemary2 {
+  grid-column-start: 3;
+  grid-row-start: 1;
+  border: 0.17rem solid rgb(134, 176, 134);
+  border-radius: 50%;
+  width:3.5rem;
+  height:3.5rem;
+}
+                                   
+.rosemary2 p {
+    text-align: center;
+    line-height: 2.5rem;
+    font-size:0.3rem;
+}
+                                
+.rosemary2:hover {
+  color:#fffbfb;
+  background-color:#145E12;
+  border: none;
+}
+
 
 .garden3box
 {
