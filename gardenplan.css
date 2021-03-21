@@ -18,6 +18,13 @@ html, body{
     margin: 0.5rem;
 }
 
+.heightmeasure {
+  transform: rotate(-90deg);
+  margin:0rem;
+  font-size: 1.0rem;
+  font-weight: bold;
+}
+
 .garden1box
 {
   display: grid;
@@ -31,10 +38,12 @@ html, body{
   margin: 0rem;
 }
 
-.heightmeasure {
-  transform: rotate(-90deg);
-  margin:0rem;
-  font-size: 1.5rem;
+.widthmeasure {
+  grid-column-start: 2;
+  grid-row-start: 6;
+  margin:0.9rem 0rem 0rem 0rem;
+  font-size: 0.95rem;
+  font-weight: bold;
 }
 
 .peas1 {
