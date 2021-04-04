@@ -402,8 +402,8 @@ html, body{
 
 .stock1:hover {
   color: black;
-  background-color: #FFF88B;
-  border: none;
+  background-color: #FEFFE5;
+  border: solid rgb(134, 176, 134);
 }
 
 .stock2 {
