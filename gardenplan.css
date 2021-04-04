@@ -402,8 +402,8 @@ html, body{
 
 .stock1:hover {
   color: black;
-  background-color: #FFF88B;
-  border: none;
+  background-color: #fffbfb;
+  border: solid 0.18em #145E12;
 }
 
 .stock2 {
@@ -424,8 +424,8 @@ html, body{
 
 .stock2:hover {
   color: black;
-  background-color: #FFF88B;
-  border: none;
+  background-color: #fffbfb;
+  border: solid 0.18em #145E12;
 }
 
 .stock3 {
@@ -446,8 +446,8 @@ html, body{
 
 .stock3:hover {
   color: black;
-  background-color: #FFF88B;
-  border: none;
+  background-color: #fffbfb;
+  border: solid 0.18em #145E12;
 }
 
 .chives {
