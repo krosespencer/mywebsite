@@ -339,8 +339,8 @@ html, body{
                                    
 .chamo1 p {
     text-align: center;
-    line-height: 2.75rem;
-    font-size:0.3rem;
+    line-height: 2.5rem;
+    font-size:0.55rem;
 }
                                 
 .chamo1:hover {
@@ -401,9 +401,9 @@ html, body{
 }
 
 .stock1:hover {
-  color: black;
-  background-color: #fffbfb;
-  border: solid 0.18em #145E12;
+  color: white;
+  background-color: rgb(123, 163, 123);
+  border: solid 0.18em rgb(123, 163, 123);
 }
 
 .stock2 {
@@ -423,9 +423,9 @@ html, body{
 }
 
 .stock2:hover {
-  color: black;
-  background-color: #fffbfb;
-  border: solid 0.18em #145E12;
+  color: white;
+  background-color: rgb(123, 163, 123);
+  border: solid 0.18em rgb(123, 163, 123);
 }
 
 .stock3 {
@@ -445,9 +445,9 @@ html, body{
 }
 
 .stock3:hover {
-  color: black;
-  background-color: #fffbfb;
-  border: solid 0.18em #145E12;
+  color: white;
+  background-color: rgb(123, 163, 123);
+  border: solid 0.18em rgb(123, 163, 123);
 }
 
 .chives {
@@ -469,7 +469,7 @@ html, body{
 .chives:hover {
   color: white;
   background-color: rgb(125, 182, 99);
-  border: none;
+  border: solid rgb(173, 133, 211);
 }
 
 .carrot1 {
@@ -619,8 +619,8 @@ html, body{
                                    
 .chamo2 p {
     text-align: center;
-    line-height: 2.8rem;
-    font-size:0.3rem;
+    line-height: 2.5rem;
+    font-size:0.55rem;
 }
                                 
 .chamo2:hover {
@@ -640,8 +640,8 @@ html, body{
                                    
 .rosemary1 p {
     text-align: center;
-    line-height: 2.8rem;
-    font-size:0.3rem;
+    line-height: 2.5rem;
+    font-size:0.55rem;
 }
                                 
 .rosemary1:hover {
@@ -662,7 +662,7 @@ html, body{
 .rosemary2 p {
     text-align: center;
     line-height: 2.5rem;
-    font-size:0.3rem;
+    font-size:0.55rem;
 }
                                 
 .rosemary2:hover {
@@ -703,8 +703,8 @@ html, body{
                                    
 .chamo3 p {
     text-align: center;
-    line-height: 2.75rem;
-    font-size:0.3rem;
+    line-height: 2.5rem;
+    font-size:0.55rem;
 }
                                 
 .chamo3:hover {
@@ -822,7 +822,7 @@ html, body{
 .straw p {
     text-align: center;
     line-height: 2.5rem;
-    font-size:0.4rem;
+    font-size:0.55rem;
 }
                                 
 .straw:hover {
