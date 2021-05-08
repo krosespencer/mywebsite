@@ -49,7 +49,9 @@ footer {
   text-align: center;
 }
 
-
+h3 {
+  display: none;
+}
 }
 
 .heightmeasure {
