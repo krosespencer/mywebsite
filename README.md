@@ -1,5 +1,6 @@
 # mywebsite
 Learning HTML + CSS by building out my website. Started Feb 2021. Deployed in the first week of March 2021. 
+https://www.ktrose.co/
 
 Doing a lot of Googling. 
 
@@ -20,12 +21,6 @@ As I build a simple website, slowly and probably rather badly, I am routinely am
 ### Will Need In Future 
 - https://catswhocode.com/how-to-make-a-responsive-website/
 - https://javascript.info/intro
-
-### SEO
-- https://metatags.io/
-- https://backlinko.com/on-page-seo
-- https://moz.com/learn/seo/meta-description
-- https://app.sistrix.com/en/serp-snippet-generator
 
 ### Don't know what this is but looks useful
 - https://webhint.io/
