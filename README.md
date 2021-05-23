@@ -1,6 +1,5 @@
 # mywebsite
-Learning HTML + CSS by building out my website. Started Feb 2021. Deployed in the first week of March 2021. [here] (https://www.ktrose.co/
-) <br>
+Learning HTML + CSS by building out my website. Started Feb 2021. Deployed in the first week of March 2021. [here](https://www.ktrose.co/) 
 
 Doing a lot of Googling. 
 
