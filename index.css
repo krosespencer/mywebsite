@@ -2,7 +2,7 @@
 
 html, body{
     font-family: 'Noto Sans', sans-serif;
-    background: rgb(255, 246, 246)
+    background: rgb(255, 246, 246);
     width: 100%;
     padding: 0em;
     margin:0em;
@@ -78,7 +78,7 @@ html, body{
   }
   
   @media screen and (device-aspect-ratio: 40/71) {
-     /*for mobile folks*/
+
     nav {
       margin:2em;
     }
